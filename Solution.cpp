@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
 
-    int weedles,days,lose_num=0,copy=-1,win=0;
+    int weedles,days,lose_num=0,copy=0,win=0;
     
     cout<<"Enter the number of Weedles : ";
     cin>>weedles;
