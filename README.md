@@ -10,15 +10,23 @@ Herein lies the solution to one of the six problems asked in the Code-a-Thon of 
 => Find the maximum consecutive number of days Pikachu wins.
 
 Example :
-Enter the number of Weedles : 5\n
-Enter the number of Days : 6\n
-Enter the schedule :\n 
-10101\n
-11111\n
-10010\n
-11001\n
-11111\n
-00010\n
+Enter the number of Weedles : 5
+
+Enter the number of Days : 6
+
+Enter the schedule :
+
+10101
+
+11111
+
+10010
+
+11001
+
+11111
+
+00010
 
 The maximum number of consecutive days in which Pikachu wins : 2
 
