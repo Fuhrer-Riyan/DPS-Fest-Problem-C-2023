@@ -5,14 +5,12 @@ Herein lies the solution to one of the six problems asked in the Code-a-Thon of 
 QUESTION :
 
 => Pikachu goes to the lake for a certain number of days. There the Weedles wait to fight him. Pikachu can only be defeated when all the 
-  
-  Weedles are present together else Pikachu wins. 
+   Weedles are present together else Pikachu wins. 
 
 => The number of Weedles (w) and the number of Days (d) need to be taken as input from the user [1<w,d<100]. 
 
 => The schedules of the Weedles on each day will also need to be taken as an input. 1 means that Weedle is present and 0 means it is 
-  
-  absent that day.
+   absent on that day.
 
 => Find the maximum consecutive number of days Pikachu wins.
 
